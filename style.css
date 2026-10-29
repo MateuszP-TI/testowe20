@@ -7,7 +7,7 @@ h2 {
 }
 
 p.nowe, .nowe {
-    text-decoration-line: underline, overline;
+    text-decoration-line: underline overline;
     text-decoration-color: red;
 }
 
